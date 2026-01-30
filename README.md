@@ -65,30 +65,6 @@ Crypto Currency Tracker is a sleek and intuitive web application designed for cr
 - 🎨 **Modern UI** - Clean and intuitive interface
 - ⚡ **Fast Performance** - Optimized with Vite for lightning-fast load times
 
----
-
-
-### Home Page - Crypto List
-![Home Page](./screenshots/home.png)
-> Browse through the top cryptocurrencies with real-time prices and market data
-
-### Coin Detail Page
-![Coin Detail](./screenshots/coin.png)
-> Detailed view with interactive charts and comprehensive market information
-
-### Search Functionality
-![Search Feature](./screenshots/search.png)
-> Quickly find your favorite cryptocurrencies
-
-### Responsive Design
-![Mobile View](./screenshots/mobile.png)
-> Fully responsive across all devices
-
-</details>
-
-> **To add screenshots:** Create a `screenshots` folder in your repository and add images with the names shown above.
-
----
 
 ## 🛠️ Tech Stack
 
