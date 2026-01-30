@@ -67,22 +67,6 @@ Crypto Currency Tracker is a sleek and intuitive web application designed for cr
 
 ---
 
-## 🎬 Demo
-
-### 🔗 Live Demo
-🚀 **[View Live Application](https://your-demo-link.com)** _(Coming Soon)_
-
-> **Note:** Add your deployed app link here (Netlify, Vercel, GitHub Pages, etc.)
-
-### 🎥 Video Walkthrough
-_Add a GIF or video demonstration here_
-
----
-
-## 📸 Screenshots
-
-<details>
-<summary>Click to view screenshots</summary>
 
 ### Home Page - Crypto List
 ![Home Page](./screenshots/home.png)
@@ -133,47 +117,6 @@ Before you begin, ensure you have the following installed:
 - **npm** or **yarn** - Comes with Node.js
 - **Git** - [Download here](https://git-scm.com/)
 
-### 🚀 Quick Start
-
-#### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/Riyaban583/Crypto-Currency-.git
-```
-
-#### 2️⃣ Navigate to the project directory
-```bash
-cd Crypto-Currency-
-```
-
-#### 3️⃣ Install dependencies
-```bash
-npm install
-```
-
-#### 4️⃣ Start the development server
-```bash
-npm run dev
-```
-
-#### 5️⃣ Open your browser
-The application will be running at:
-```
-http://localhost:5173
-```
-
-### 🏗️ Build for Production
-
-To create an optimized production build:
-```bash
-npm run build
-```
-
-To preview the production build locally:
-```bash
-npm run preview
-```
-
----
 
 ## 📂 Project Structure
 
@@ -251,46 +194,6 @@ Crypto-Currency-/
 
 ---
 
-## 🔌 API Reference
-
-This project uses the **CoinGecko API** - a free, comprehensive cryptocurrency data API.
-
-### Endpoints Used
-
-#### Get Market Data
-```
-GET https://api.coingecko.com/api/v3/coins/markets
-```
-**Parameters:**
-- `vs_currency`: The target currency (usd, inr, eur)
-- `order`: Sort order (market_cap_desc)
-- `per_page`: Number of results per page
-- `page`: Page number
-
-#### Get Coin Details
-```
-GET https://api.coingecko.com/api/v3/coins/{id}
-```
-**Parameters:**
-- `id`: Coin ID (bitcoin, ethereum, etc.)
-
-#### Get Historical Chart Data
-```
-GET https://api.coingecko.com/api/v3/coins/{id}/market_chart
-```
-**Parameters:**
-- `id`: Coin ID
-- `vs_currency`: Target currency
-- `days`: Number of days (10)
-
-### Rate Limits
-- CoinGecko free tier: 10-50 calls/minute
-- No API key required for basic usage
-
-**Documentation:** [CoinGecko API Docs](https://www.coingecko.com/en/api/documentation)
-
----
-
 ## 🧠 Learnings
 
 ### Technical Skills Gained
@@ -337,56 +240,6 @@ GET https://api.coingecko.com/api/v3/coins/{id}/market_chart
 
 ---
 
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**!
-
-### How to Contribute
-
-1. **Fork the Project**
-   ```bash
-   # Click the 'Fork' button at the top right of this page
-   ```
-
-2. **Clone your Fork**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Crypto-Currency-.git
-   ```
-
-3. **Create a Feature Branch**
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-
-4. **Make your Changes**
-   - Write clean, readable code
-   - Follow the existing code style
-   - Test your changes thoroughly
-
-5. **Commit your Changes**
-   ```bash
-   git add .
-   git commit -m "Add some AmazingFeature"
-   ```
-
-6. **Push to your Branch**
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-
-7. **Open a Pull Request**
-   - Go to the original repository
-   - Click "New Pull Request"
-   - Describe your changes
-
-### Contribution Guidelines
-- Write clear, descriptive commit messages
-- Update documentation for any new features
-- Ensure your code follows the project's coding standards
-- Test your changes before submitting a PR
-- Be respectful and constructive in discussions
-
----
 
 ## 👩‍💻 Author
 
@@ -407,17 +260,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### MIT License Summary
-- ✅ Commercial use
-- ✅ Modification
-- ✅ Distribution
-- ✅ Private use
-
----
 
 ## 🙏 Acknowledgments
 
@@ -432,15 +275,6 @@ Special thanks to:
 
 ---
 
-## 📞 Support
-
-If you have any questions, issues, or suggestions:
-
-- 🐛 **Report bugs:** [Open an issue](https://github.com/Riyaban583/Crypto-Currency-/issues)
-- 💬 **Discussions:** [Join discussions](https://github.com/Riyaban583/Crypto-Currency-/discussions)
-- ⭐ **Star this repo** if you find it helpful!
-
----
 
 <div align="center">
 
